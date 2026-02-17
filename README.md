@@ -1,0 +1,1 @@
+Welcome to the very start of your React Native journey!
