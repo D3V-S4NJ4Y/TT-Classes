@@ -10,13 +10,16 @@ Choose **blank** using arrow keys and press enter
 
 ## Installation Steps
 
-```cd my-app
+```
+cd my-app
 ```
 
-```npx expo install react-dom react-native-web
+```
+npx expo install react-dom react-native-web
 ```
 
-```npx expo start
+```
+npx expo start
 ```
 
 Now your project is created and running on http://localhost:8081
