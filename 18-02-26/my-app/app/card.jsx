@@ -1,25 +1,36 @@
 import React from "react";
-import { View, Text, Image, StyleSheet } from "react-native";
+import { View, Text, Image, StyleSheet, Pressable, Linking } from "react-native";
 
 function Card(props){
+    const handlePress = () => {
+        if(props.url) {
+            Linking.openURL(props.url);
+        }
+    };
+
     return(
-        <View style={styles.box}>
-            <Image 
-                style={styles.image}
-                source={{uri: "https://cdn-icons-png.flaticon.com/512/415/415733.png"}} 
-            />
-            <View style={styles.textContainer}>
-                <Text style={styles.name}>{props.name}</Text>
-                <Text style={styles.price}>{props.price}</Text>
+        <Pressable onPress={handlePress}>
+            <View style={styles.box}>
+                <Image 
+                    style={styles.image}
+                    source={{uri: props.imageUrl}} 
+                />
+                <View style={styles.textContainer}>
+                    <Text style={styles.name}>{props.name}</Text>
+                    <Text style={styles.price}>{props.price}</Text>
+                    {props.description && 
+                        <Text style={styles.description}>{props.description}</Text>
+                    }
+                </View>
             </View>
-        </View>
+        </Pressable>
     )
 }
 
 const styles = StyleSheet.create({
     box: {
         height: 120,
-        width: "100%",
+        width: "25%",
         backgroundColor: "white",
         borderColor: "black",
         borderWidth: 1,
@@ -48,6 +59,11 @@ const styles = StyleSheet.create({
         fontSize: 16,
         color: "green",
         fontWeight: "600"
+    },
+    description: {
+        fontSize: 12,
+        color: "#666",
+        marginTop: 5
     }
 });
 
