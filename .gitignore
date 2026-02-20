@@ -1,1 +1,5 @@
 .config/
+.vscode/
+.expo/
+.zencoder/
+.zenflow/
