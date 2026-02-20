@@ -7,7 +7,7 @@ export default function App() {
       <View style={styles.card}>
 
         <Image 
-          source={require('./assets/image.png')}
+          source={require('./assets/sanjay.png')}
           style={styles.profile}
         />
 

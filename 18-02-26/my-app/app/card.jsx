@@ -29,8 +29,8 @@ function Card(props){
 
 const styles = StyleSheet.create({
     box: {
-        height: 120,
-        width: "25%",
+        height: 150,
+        width: "20%",
         backgroundColor: "white",
         borderColor: "black",
         borderWidth: 1,
@@ -41,13 +41,9 @@ const styles = StyleSheet.create({
         alignItems: "center"
     },
     image: {
-        height: 80,
-        width: 80,
+        height: '100%',
+        width: 100,
         marginRight: 15
-    },
-    textContainer: {
-        flex: 1,
-        justifyContent: "center"
     },
     name: {
         fontSize: 18,
