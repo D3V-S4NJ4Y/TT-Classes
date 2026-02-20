@@ -5,6 +5,7 @@ node_modules/
 
 # Expo
 .expo/
+.vscode/
 dist/
 web-build/
 expo-env.d.ts
@@ -36,10 +37,8 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
+app-example
+
 # generated native folders
 /ios
 /android
-
-#others
-.zencoder/
-.zenflow/

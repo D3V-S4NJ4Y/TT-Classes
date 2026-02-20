@@ -1,25 +1,31 @@
-# Get Started with React Native
+# React Native with Expo - 16-02-26
 
-To create a new Expo project, run the following in your terminal:
+A portfolio/profile card application built with React Native and Expo. This project showcases a professional profile with social media integration and interactive links.
 
-```
-npx create-expo-app --template
-```
+## Installation
 
-Choose **blank** using arrow keys and press enter
-
-## Installation Steps
-
-```
-cd my-app
+### Clone the Repository
+```powershell
+git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set 16-02-26
 ```
 
-```
-npx expo install react-dom react-native-web
-```
-
-```
-npx expo start
+### Install Dependencies
+```powershell
+npm install
 ```
 
-Now your project is created and running on http://localhost:8081
+## Running the Project
+
+```powershell
+npm start
+```
+
+This will start the Expo server. You can run on:
+- **Web**: Press `w` in the terminal or visit http://localhost:8081
+- **Android**: Press `a` (requires Android setup)
+- **iOS**: Press `i` (requires Xcode on macOS)
+
+## Key Components
+
+- **App.js** - Main application component
+- **index.js** - Entry point for the React Native app

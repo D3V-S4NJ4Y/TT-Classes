@@ -1,25 +1,32 @@
-# Get Started with React Native
+# React Native with Expo - 18-02-26
 
-To create a new Expo project, run the following in your terminal:
+This project demonstrates building reusable components like cards and layouts.
 
-```
-npx create-expo-app --template
-```
+## Installation
 
-Choose **blank** using arrow keys and press enter
+### Clone the Repository
+```powershell
+git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set 18-02-26
+````
 
-## Installation Steps
-
-```
-cd my-app
-```
-
-```
-npx expo install react-dom react-native-web
+### Install Dependencies
+```powershell
+npm install
 ```
 
-```
-npx expo start
+## Running the Project
+
+```powershell
+npm start
 ```
 
-Now your project is created and running on http://localhost:8081
+This will start the Expo server. You can run on:
+- **Web**: Press `w` in the terminal or visit http://localhost:8081
+- **Android**: Press `a` (requires Android setup)
+- **iOS**: Press `i` (requires Xcode on macOS)
+
+## Key Components
+
+- **card.jsx** - Reusable card component for displaying content
+- **layout.jsx** - Layout wrapper component for consistent structure
+- **App.js** - Main application component
