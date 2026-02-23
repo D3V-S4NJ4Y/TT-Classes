@@ -2,6 +2,10 @@
 
 This project demonstrates building reusable components like cards and layouts.
 
+## Output
+
+![Output Screenshot](./my-app/assets/images/output.png)
+
 ## Installation
 
 ### Clone the Repository
@@ -11,7 +15,7 @@ git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT
 
 ### Install Dependencies
 ```powershell
-cd 28-02-26/my-app
+cd 18-02-26/my-app
 npm install
 ```
 

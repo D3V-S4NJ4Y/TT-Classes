@@ -2,6 +2,10 @@
 
 A portfolio/profile card application built with React Native and Expo. This project showcases a professional profile with social media integration and interactive links.
 
+## Output
+
+![Output Screenshot](./my-app/assets/output.png)
+
 ## Installation
 
 ### Clone the Repository

@@ -10,6 +10,7 @@ export default function App() {
           source={require('./assets/sanjay.png')}
           style={styles.profile}
         />
+        
 
         <Text style={styles.name}>Sanjay Kumar Chaurasiya</Text>
         <text>Software Engineer</text><br></br>

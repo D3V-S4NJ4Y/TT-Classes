@@ -2,6 +2,10 @@
 
 ////////////////////////////////////
 
+## Output
+
+![Output Screenshot](./my-app/assets/images/output.png)
+
 ## Installation
 
 ### Clone the Repository

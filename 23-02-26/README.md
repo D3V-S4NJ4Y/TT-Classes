@@ -2,6 +2,10 @@
 
 Create a increment button with  useState and useEffect.
 
+## Output
+
+![Output Screenshot](./my-app/assets/images/output.png)
+
 ## Installation
 
 ### Clone the Repository
