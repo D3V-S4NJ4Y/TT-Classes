@@ -1,16 +1,17 @@
-# React Native with Expo - 18-02-26
+# React Native with Expo - 23-02-26
 
-///////////////////////////////////////
+////////////////////////////////////
 
 ## Installation
 
 ### Clone the Repository
 ```powershell
-git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set 22-02-26
-````
+git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set 24-02-26
+```
 
 ### Install Dependencies
 ```powershell
+cd 24-02-26/my-app
 npm install
 ```
 
@@ -26,5 +27,4 @@ This will start the Expo server. You can run on:
 - **iOS**: Press `i` (requires Xcode on macOS)
 
 ## Key Components
-
-////////////////////////
+///////////////////////////////////////////
