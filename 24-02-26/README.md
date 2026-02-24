@@ -1,6 +1,6 @@
 # React Native with Expo - 23-02-26
 
-////////////////////////////////////
+Create a minor "Password Generator" project using useEffect and useState.
 
 ## Output
 
@@ -31,4 +31,4 @@ This will start the Expo server. You can run on:
 - **iOS**: Press `i` (requires Xcode on macOS)
 
 ## Key Components
-///////////////////////////////////////////
+**index.tsx** A main application of Password Generator
