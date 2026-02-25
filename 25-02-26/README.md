@@ -10,12 +10,12 @@ Create a minor "Dark mode & light mode" Project
 
 ### Clone the Repository
 ```powershell
-git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set 26-02-26
+git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set 25-02-26
 ```
 
 ### Install Dependencies
 ```powershell
-cd 26-02-26/my-app
+cd 25-02-26/my-app
 npm install
 ```
 
