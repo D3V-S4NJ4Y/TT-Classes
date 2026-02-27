@@ -32,5 +32,4 @@ This will start the Expo server. You can run on:
 
 ## Key Components
 
-- **App.js** - Main application component
-- **index.js** - Entry point for the React Native app
+///////////////////////////
