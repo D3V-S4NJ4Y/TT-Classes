@@ -1,4 +1,4 @@
-# React Native with Expo - 23-02-26
+# React Native with Expo - 24-02-26
 
 Create a minor "Password Generator" project using useEffect and useState.
 

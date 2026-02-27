@@ -1,21 +1,21 @@
-# React Native with Expo - 25-02-26
+# React Native with Expo - 02-03-26
 
-Create a minor "Dark mode & light mode" Project
+/////////////////////////////////////////
 
 ## Output
 
-![Output Screenshot](./my-app/assets/images/output.png)
+![Output Screenshot](./my-app/assets/output.png)
 
 ## Installation
 
 ### Clone the Repository
 ```powershell
-git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set 25-02-26
+git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set 02-03-26
 ```
 
 ### Install Dependencies
 ```powershell
-cd 25-02-26/my-app
+cd 02-03-26/my-app
 npm install
 ```
 
@@ -31,4 +31,6 @@ This will start the Expo server. You can run on:
 - **iOS**: Press `i` (requires Xcode on macOS)
 
 ## Key Components
-**index.tsx** A main application of Dark and light mode
+
+- **App.js** - Main application component
+- **index.js** - Entry point for the React Native app
