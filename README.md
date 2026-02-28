@@ -8,7 +8,7 @@ To create a new Expo project, run the following in your terminal:
 npx create-expo-app
 ```
 
-Choose **blank** using arrow keys and press enter
+Choose **Options** using arrow keys or press enter
 
 ## Installation Steps
 
@@ -22,11 +22,6 @@ npx expo install react-dom react-native-web
 
 ```
 npx expo start
-```
-### Clone the Repository
-
-```powershell
-git clone https://github.com/D3V-S4NJ4Y/TT-Classes.git
 ```
 
 This will start the Expo server. You can run on:
