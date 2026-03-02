@@ -102,7 +102,7 @@ npx expo install react-native-gesture-handler @react-native-masked-view/masked-v
             ├── Home.jsx       # Home screen component
             ├── Search.jsx     # Search screen component
             └── Profile.jsx    # Profile screen component
-
+```
 
 ## Key Components
 

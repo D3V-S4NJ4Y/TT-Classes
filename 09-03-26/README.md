@@ -63,7 +63,7 @@ npm run ios
     │       ├── icon.png
     │       ├── favicon.png
     │       └── output.png
-
+```
 
 ## Key Components
 
