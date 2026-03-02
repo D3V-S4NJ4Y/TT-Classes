@@ -1,6 +1,6 @@
 # React Native with Expo - 02-03-26
 
-/////////////////////////////////////////
+Explore React Native Stack Navigation..
 
 ## Output
 
