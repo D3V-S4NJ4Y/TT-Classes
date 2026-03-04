@@ -1,6 +1,4 @@
-# React Native with Expo - 18-02-26
-
-This project demonstrates building reusable components like cards and layouts.
+Create a minor "Password Generator" project using useEffect and useState.
 
 ## Output
 
@@ -10,12 +8,12 @@ This project demonstrates building reusable components like cards and layouts.
 
 ### Clone the Repository
 ```powershell
-git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set 18-02-26
-````
+git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set C4-24-02-26
+```
 
 ### Install Dependencies
 ```powershell
-cd 18-02-26/my-app
+cd 24-02-26/my-app
 npm install
 ```
 
@@ -31,7 +29,4 @@ This will start the Expo server. You can run on:
 - **iOS**: Press `i` (requires Xcode on macOS)
 
 ## Key Components
-
-- **card.jsx** - Reusable card component for displaying content
-- **layout.jsx** - Layout wrapper component for consistent structure
-- **App.js** - Main application component
+**index.tsx** A main application of Password Generator

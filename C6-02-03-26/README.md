@@ -1,5 +1,3 @@
-# React Native with Expo - 02-03-26
-
 A React Native mobile application built with Expo featuring bottom tab navigation between Home, Search, and Profile screens.
 
 ## Output
@@ -10,7 +8,7 @@ A React Native mobile application built with Expo featuring bottom tab navigatio
 
 ### Clone the Repository
 ```powershell
-git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set 02-03-26
+git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set C6-02-03-26
 ```
 
 ### Navigate to Project Directory

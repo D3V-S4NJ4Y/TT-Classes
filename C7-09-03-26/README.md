@@ -1,5 +1,3 @@
-# React Native with Expo - 09-03-26
-
 ////////////////////////////
 
 ## Output
@@ -10,7 +8,7 @@
 
 ### Clone the Repository
 ```powershell
-git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set 09-03-26
+git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set C7-09-03-26
 ```
 
 ### Navigate to Project Directory

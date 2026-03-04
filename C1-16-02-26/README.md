@@ -1,5 +1,3 @@
-# React Native with Expo - 16-02-26
-
 A portfolio/profile card application built with React Native and Expo. This project showcases a professional profile with social media integration and interactive links.
 
 ## Output
@@ -10,7 +8,7 @@ A portfolio/profile card application built with React Native and Expo. This proj
 
 ### Clone the Repository
 ```powershell
-git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set 16-02-26
+git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set C1-16-02-26
 ```
 
 ### Install Dependencies

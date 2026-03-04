@@ -1,6 +1,4 @@
-# React Native with Expo - 24-02-26
-
-Create a minor "Password Generator" project using useEffect and useState.
+Create a minor "Dark mode & light mode" Project
 
 ## Output
 
@@ -10,12 +8,12 @@ Create a minor "Password Generator" project using useEffect and useState.
 
 ### Clone the Repository
 ```powershell
-git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set 24-02-26
+git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set C5-25-02-26
 ```
 
 ### Install Dependencies
 ```powershell
-cd 24-02-26/my-app
+cd 25-02-26/my-app
 npm install
 ```
 
@@ -31,4 +29,4 @@ This will start the Expo server. You can run on:
 - **iOS**: Press `i` (requires Xcode on macOS)
 
 ## Key Components
-**index.tsx** A main application of Password Generator
+**index.tsx** A main application of Dark and light mode

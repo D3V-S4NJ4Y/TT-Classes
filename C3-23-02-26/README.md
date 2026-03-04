@@ -1,6 +1,4 @@
-# React Native with Expo - 25-02-26
-
-Create a minor "Dark mode & light mode" Project
+Create a increment button with  useState and useEffect.
 
 ## Output
 
@@ -10,12 +8,12 @@ Create a minor "Dark mode & light mode" Project
 
 ### Clone the Repository
 ```powershell
-git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set 25-02-26
+git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT-Classes.git; cd TT-Classes; git sparse-checkout set C3-23-02-26
 ```
 
 ### Install Dependencies
 ```powershell
-cd 25-02-26/my-app
+cd 23-02-26/my-app
 npm install
 ```
 
@@ -31,4 +29,4 @@ This will start the Expo server. You can run on:
 - **iOS**: Press `i` (requires Xcode on macOS)
 
 ## Key Components
-**index.tsx** A main application of Dark and light mode
+- **index.tsx** - Main application component with useState and useEffect hooks
