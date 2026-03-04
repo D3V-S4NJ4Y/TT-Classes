@@ -14,7 +14,7 @@ git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT
 ### Navigate to Project Directory
 
 ```powershell
-cd 02-03-26/my-app
+cd C6-02-03-26/my-app
 ```
 
 ### Install Dependencies
@@ -83,7 +83,7 @@ npx expo install react-native-gesture-handler @react-native-masked-view/masked-v
 ## Project Structure
 
 ```
-02-03-26/
+C6-02-03-26/
 ├── README.md                    # Project documentation
 └── my-app/
     ├── App.js                  # Main application entry point

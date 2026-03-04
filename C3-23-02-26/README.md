@@ -13,7 +13,7 @@ git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT
 
 ### Install Dependencies
 ```powershell
-cd 23-02-26/my-app
+cd C3-23-02-26/my-app
 npm install
 ```
 

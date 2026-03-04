@@ -14,7 +14,7 @@ git clone --depth 1 --filter=blob:none --sparse https://github.com/D3V-S4NJ4Y/TT
 ### Navigate to Project Directory
 
 ```powershell
-cd 09-03-26/my-app
+cd C7-09-03-26/my-app
 ```
 
 ### Install Dependencies
@@ -50,7 +50,7 @@ npm run ios
 ## Project Structure
 
 ```
-09-03-26/
+C7-09-03-26/
 ├── README.md                    # Project documentation
 └── my-app/
     ├── package.json            # Dependencies and scripts
